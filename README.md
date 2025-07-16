@@ -14,33 +14,60 @@ I'm a final-year **CSE student** who loves building apps that solve real-world p
 - 🔭 I’m currently working on **React + Express Projects**
 - 🌱 I’m learning **Full Stack Development, DSA & Data Visualization**
 - 💬 Ask me about **Web Development, UI/UX, and anything tech!**
-- 📫 How to reach me: [aryankushwaha279262@gmail.com](mailto:aryankushwaha279262@gmail.com)
+- 📫 Reach me at: [aryankushwaha279262@gmail.com](mailto:aryankushwaha279262@gmail.com)
 - 📍 Based in **Coimbatore, India**
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack & Tools
 
-### 💻 Languages & Fundamentals
-- Java | Python | C | SQL (Basic)
-- Data Structures & Algorithms (Basic)
+### 💻 Languages
 
-### 🌐 Web Development
-- HTML5 | CSS3 | JavaScript | React | Express.js
-- Responsive Design | Layout Systems (Flexbox, Grid)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+</p>
 
-### 🗃️ Database & Backend
-- MongoDB (Basics) | SQL (Basic)
+---
+
+### 🌐 Web Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+</p>
+
+---
+
+### 🗃️ Database
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+</p>
+
+---
 
 ### 📊 Tools & Platforms
-- Power BI | Tableau
-- Git | GitHub
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Tableau_Logo.png" width="40" height="40" alt="Tableau"/>
+  <img src="https://seeklogo.com/images/P/power-bi-logo-9A66AE8DCB-seeklogo.com.png" width="40" height="40" alt="Power BI"/> -->
+</p>
 
 ---
 
 ## 🛠️ Projects
 
 ### 📦 Amazon & YouTube Clone
+
 - 🔹 Built a **pixel-perfect** clone of Amazon’s homepage using HTML5 & CSS3
 - 🔹 Used **Flexbox** and **Grid** for responsive layout and cross-device compatibility
 - 🔹 Focused on UX principles and design consistency for seamless user interaction
